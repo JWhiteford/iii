@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Products on Inline Industries Inc.</title>
+    <link>http://examplesite.org/available-products/</link>
+    <description>Recent content in Products on Inline Industries Inc.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; 2020 Inline Industries Inc.</copyright>
+    
+	<atom:link href="http://examplesite.org/available-products/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>2019 Tremcar Dry Bulk</title>
+      <link>http://examplesite.org/available-products/tremcar-dry-bulk/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://examplesite.org/available-products/tremcar-dry-bulk/</guid>
+      <description>2019 Tremcar Dry Bulk 1200cuft Pneumatic Tridem Trailer
+ Bullet item 1 Bullet item 2 Bullet item 3 Bullet item 4  </description>
+    </item>
+    
+    <item>
+      <title>Tremcar Triaxle Trailer</title>
+      <link>http://examplesite.org/available-products/tremcar-triaxle-trailer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://examplesite.org/available-products/tremcar-triaxle-trailer/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
