@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Parts &amp; Services on Inline Industries Inc.</title>
-    <link>http://examplesite.org/parts-and-services/</link>
+    <link>https://jwhiteford.github.io/iii/parts-and-services/</link>
     <description>Recent content in Parts &amp; Services on Inline Industries Inc.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; 2020 Inline Industries Inc.</copyright>
     
-	<atom:link href="http://examplesite.org/parts-and-services/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jwhiteford.github.io/iii/parts-and-services/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Complete Rebuild Service</title>
-      <link>http://examplesite.org/parts-and-services/rebuild-service/</link>
+      <link>https://jwhiteford.github.io/iii/parts-and-services/rebuild-service/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://examplesite.org/parts-and-services/rebuild-service/</guid>
+      <guid>https://jwhiteford.github.io/iii/parts-and-services/rebuild-service/</guid>
       <description>We can repair pumps, valves, fuel &amp;amp; hydraulic tanks.</description>
     </item>
     
     <item>
       <title>Custom Fabricating</title>
-      <link>http://examplesite.org/parts-and-services/custom-fabricating/</link>
+      <link>https://jwhiteford.github.io/iii/parts-and-services/custom-fabricating/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://examplesite.org/parts-and-services/custom-fabricating/</guid>
+      <guid>https://jwhiteford.github.io/iii/parts-and-services/custom-fabricating/</guid>
       <description>We custom fabricate stainless &amp;amp; aluminum products for our customer&amp;rsquo;s needs.</description>
     </item>
     
     <item>
       <title>Extensive Parts Inventory</title>
-      <link>http://examplesite.org/parts-and-services/parts-inventory/</link>
+      <link>https://jwhiteford.github.io/iii/parts-and-services/parts-inventory/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://examplesite.org/parts-and-services/parts-inventory/</guid>
+      <guid>https://jwhiteford.github.io/iii/parts-and-services/parts-inventory/</guid>
       <description>We carry parts for:
  Oil Chemical Water Edible Milk Pneumatic &amp;amp; Dry Bulk Trailers  </description>
     </item>

@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Contact Us on Inline Industries Inc.</title>
-    <link>http://examplesite.org/contact/</link>
+    <link>https://jwhiteford.github.io/iii/contact/</link>
     <description>Recent content in Contact Us on Inline Industries Inc.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; 2020 Inline Industries Inc.</copyright>
     
-	<atom:link href="http://examplesite.org/contact/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jwhiteford.github.io/iii/contact/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

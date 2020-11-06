@@ -3,305 +3,305 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://examplesite.org/categories/</loc>
+    <loc>https://jwhiteford.github.io/iii/categories/</loc>
     <lastmod>2020-10-09T15:27:17+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://examplesite.org/fr/categories/"
+                href="https://jwhiteford.github.io/iii/fr/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://examplesite.org/categories/"
+                href="https://jwhiteford.github.io/iii/categories/"
                 />
   </url>
   
   <url>
-    <loc>http://examplesite.org/tags/dealer/</loc>
+    <loc>https://jwhiteford.github.io/iii/tags/dealer/</loc>
     <lastmod>2020-10-09T15:27:17+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://examplesite.org/</loc>
+    <loc>https://jwhiteford.github.io/iii/</loc>
     <lastmod>2020-10-09T15:27:17+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://examplesite.org/fr/"
+                href="https://jwhiteford.github.io/iii/fr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://examplesite.org/"
+                href="https://jwhiteford.github.io/iii/"
                 />
   </url>
   
   <url>
-    <loc>http://examplesite.org/blog/</loc>
+    <loc>https://jwhiteford.github.io/iii/blog/</loc>
     <lastmod>2020-10-09T15:27:17+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://examplesite.org/categories/products/</loc>
+    <loc>https://jwhiteford.github.io/iii/categories/products/</loc>
     <lastmod>2020-10-09T15:27:17+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://examplesite.org/tags/</loc>
+    <loc>https://jwhiteford.github.io/iii/tags/</loc>
     <lastmod>2020-10-09T15:27:17+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://examplesite.org/fr/tags/"
+                href="https://jwhiteford.github.io/iii/fr/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://examplesite.org/tags/"
+                href="https://jwhiteford.github.io/iii/tags/"
                 />
   </url>
   
   <url>
-    <loc>http://examplesite.org/blog/blog-post-1/</loc>
+    <loc>https://jwhiteford.github.io/iii/blog/blog-post-1/</loc>
     <lastmod>2020-10-09T15:27:17+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://examplesite.org/tags/tremcar/</loc>
+    <loc>https://jwhiteford.github.io/iii/tags/tremcar/</loc>
     <lastmod>2020-10-09T15:27:17+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://examplesite.org/categories/custom-wwork/</loc>
+    <loc>https://jwhiteford.github.io/iii/categories/custom-wwork/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://examplesite.org/research/research-1/</loc>
+    <loc>https://jwhiteford.github.io/iii/research/research-1/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://examplesite.org/research/research-2/</loc>
+    <loc>https://jwhiteford.github.io/iii/research/research-2/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://examplesite.org/research/research-3/</loc>
+    <loc>https://jwhiteford.github.io/iii/research/research-3/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://examplesite.org/research/research-4/</loc>
+    <loc>https://jwhiteford.github.io/iii/research/research-4/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://examplesite.org/research/research-5/</loc>
+    <loc>https://jwhiteford.github.io/iii/research/research-5/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://examplesite.org/research/research-6/</loc>
+    <loc>https://jwhiteford.github.io/iii/research/research-6/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://examplesite.org/tags/headache-rack/</loc>
+    <loc>https://jwhiteford.github.io/iii/tags/headache-rack/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://examplesite.org/research/</loc>
+    <loc>https://jwhiteford.github.io/iii/research/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://examplesite.org/blog/blog-post-2/</loc>
+    <loc>https://jwhiteford.github.io/iii/blog/blog-post-2/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://examplesite.org/blog/blog-post-3/</loc>
+    <loc>https://jwhiteford.github.io/iii/blog/blog-post-3/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://examplesite.org/tags/welding/</loc>
+    <loc>https://jwhiteford.github.io/iii/tags/welding/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://examplesite.org/available-products/tremcar-dry-bulk/</loc>
+    <loc>https://jwhiteford.github.io/iii/available-products/tremcar-dry-bulk/</loc>
   </url>
   
   <url>
-    <loc>http://examplesite.org/about/</loc>
+    <loc>https://jwhiteford.github.io/iii/about/</loc>
   </url>
   
   <url>
-    <loc>http://examplesite.org/new-and-used-equipment/aluminum-dry-bulk/</loc>
+    <loc>https://jwhiteford.github.io/iii/new-and-used-equipment/aluminum-dry-bulk/</loc>
   </url>
   
   <url>
-    <loc>http://examplesite.org/new-and-used-equipment/aluminum-petroleum/</loc>
+    <loc>https://jwhiteford.github.io/iii/new-and-used-equipment/aluminum-petroleum/</loc>
   </url>
   
   <url>
-    <loc>http://examplesite.org/author/</loc>
+    <loc>https://jwhiteford.github.io/iii/author/</loc>
   </url>
   
   <url>
-    <loc>http://examplesite.org/team/bernie-kublik/</loc>
+    <loc>https://jwhiteford.github.io/iii/team/bernie-kublik/</loc>
   </url>
   
   <url>
-    <loc>http://examplesite.org/products/product-1/</loc>
+    <loc>https://jwhiteford.github.io/iii/products/product-1/</loc>
   </url>
   
   <url>
-    <loc>http://examplesite.org/scholarship/scholarship-1/</loc>
+    <loc>https://jwhiteford.github.io/iii/scholarship/scholarship-1/</loc>
   </url>
   
   <url>
-    <loc>http://examplesite.org/new-and-used-equipment/chemical-trailers/</loc>
+    <loc>https://jwhiteford.github.io/iii/new-and-used-equipment/chemical-trailers/</loc>
   </url>
   
   <url>
-    <loc>http://examplesite.org/parts-and-services/rebuild-service/</loc>
+    <loc>https://jwhiteford.github.io/iii/parts-and-services/rebuild-service/</loc>
   </url>
   
   <url>
-    <loc>http://examplesite.org/contact/</loc>
+    <loc>https://jwhiteford.github.io/iii/contact/</loc>
   </url>
   
   <url>
-    <loc>http://examplesite.org/parts-and-services/custom-fabricating/</loc>
+    <loc>https://jwhiteford.github.io/iii/parts-and-services/custom-fabricating/</loc>
   </url>
   
   <url>
-    <loc>http://examplesite.org/parts-and-services/parts-inventory/</loc>
+    <loc>https://jwhiteford.github.io/iii/parts-and-services/parts-inventory/</loc>
   </url>
   
   <url>
-    <loc>http://examplesite.org/new-and-used-equipment/stainless-steel-crude/</loc>
+    <loc>https://jwhiteford.github.io/iii/new-and-used-equipment/stainless-steel-crude/</loc>
   </url>
   
   <url>
-    <loc>http://examplesite.org/author/john-doe/</loc>
+    <loc>https://jwhiteford.github.io/iii/author/john-doe/</loc>
   </url>
   
   <url>
-    <loc>http://examplesite.org/team/jennifer-jonkers/</loc>
+    <loc>https://jwhiteford.github.io/iii/team/jennifer-jonkers/</loc>
   </url>
   
   <url>
-    <loc>http://examplesite.org/team/jim-grue/</loc>
+    <loc>https://jwhiteford.github.io/iii/team/jim-grue/</loc>
   </url>
   
   <url>
-    <loc>http://examplesite.org/author/mark-dinn/</loc>
+    <loc>https://jwhiteford.github.io/iii/author/mark-dinn/</loc>
   </url>
   
   <url>
-    <loc>http://examplesite.org/new-and-used-equipment/milk-farm-pickup/</loc>
+    <loc>https://jwhiteford.github.io/iii/new-and-used-equipment/milk-farm-pickup/</loc>
   </url>
   
   <url>
-    <loc>http://examplesite.org/team/mitch-carmicheal/</loc>
+    <loc>https://jwhiteford.github.io/iii/team/mitch-carmicheal/</loc>
   </url>
   
   <url>
-    <loc>http://examplesite.org/team/</loc>
+    <loc>https://jwhiteford.github.io/iii/team/</loc>
   </url>
   
   <url>
-    <loc>http://examplesite.org/parts-and-services/</loc>
+    <loc>https://jwhiteford.github.io/iii/parts-and-services/</loc>
   </url>
   
   <url>
-    <loc>http://examplesite.org/new-and-used-equipment/16-19-cube-water/</loc>
+    <loc>https://jwhiteford.github.io/iii/new-and-used-equipment/16-19-cube-water/</loc>
   </url>
   
   <url>
-    <loc>http://examplesite.org/new-and-used-equipment/potable-water-tank/</loc>
+    <loc>https://jwhiteford.github.io/iii/new-and-used-equipment/potable-water-tank/</loc>
   </url>
   
   <url>
-    <loc>http://examplesite.org/available-products/</loc>
+    <loc>https://jwhiteford.github.io/iii/available-products/</loc>
   </url>
   
   <url>
-    <loc>http://examplesite.org/new-and-used-equipment/</loc>
+    <loc>https://jwhiteford.github.io/iii/new-and-used-equipment/</loc>
   </url>
   
   <url>
-    <loc>http://examplesite.org/products/</loc>
+    <loc>https://jwhiteford.github.io/iii/products/</loc>
   </url>
   
   <url>
-    <loc>http://examplesite.org/team/richard-nessler/</loc>
+    <loc>https://jwhiteford.github.io/iii/team/richard-nessler/</loc>
   </url>
   
   <url>
-    <loc>http://examplesite.org/new-and-used-equipment/sanitary-trailers/</loc>
+    <loc>https://jwhiteford.github.io/iii/new-and-used-equipment/sanitary-trailers/</loc>
   </url>
   
   <url>
-    <loc>http://examplesite.org/scholarship/</loc>
+    <loc>https://jwhiteford.github.io/iii/scholarship/</loc>
   </url>
   
   <url>
-    <loc>http://examplesite.org/new-and-used-equipment/tc-406-petroleum-truckmount/</loc>
+    <loc>https://jwhiteford.github.io/iii/new-and-used-equipment/tc-406-petroleum-truckmount/</loc>
   </url>
   
   <url>
-    <loc>http://examplesite.org/new-and-used-equipment/stainless-steel-food-grade/</loc>
+    <loc>https://jwhiteford.github.io/iii/new-and-used-equipment/stainless-steel-food-grade/</loc>
   </url>
   
   <url>
-    <loc>http://examplesite.org/team/steve-bullock/</loc>
+    <loc>https://jwhiteford.github.io/iii/team/steve-bullock/</loc>
   </url>
   
   <url>
-    <loc>http://examplesite.org/new-and-used-equipment/dot-tc-407/</loc>
+    <loc>https://jwhiteford.github.io/iii/new-and-used-equipment/dot-tc-407/</loc>
   </url>
   
   <url>
-    <loc>http://examplesite.org/new-and-used-equipment/tc-406-super-b/</loc>
+    <loc>https://jwhiteford.github.io/iii/new-and-used-equipment/tc-406-super-b/</loc>
   </url>
   
   <url>
-    <loc>http://examplesite.org/new-and-used-equipment/tc-406-trailer/</loc>
+    <loc>https://jwhiteford.github.io/iii/new-and-used-equipment/tc-406-trailer/</loc>
   </url>
   
   <url>
-    <loc>http://examplesite.org/new-and-used-equipment/tc-407-super-b-sour-sealed-aluminum/</loc>
+    <loc>https://jwhiteford.github.io/iii/new-and-used-equipment/tc-407-super-b-sour-sealed-aluminum/</loc>
   </url>
   
   <url>
-    <loc>http://examplesite.org/new-and-used-equipment/tc-407-super-b-chemical/</loc>
+    <loc>https://jwhiteford.github.io/iii/new-and-used-equipment/tc-407-super-b-chemical/</loc>
   </url>
   
   <url>
-    <loc>http://examplesite.org/new-and-used-equipment/tc-407-sour-sealed-aluminum/</loc>
+    <loc>https://jwhiteford.github.io/iii/new-and-used-equipment/tc-407-sour-sealed-aluminum/</loc>
   </url>
   
   <url>
-    <loc>http://examplesite.org/new-and-used-equipment/tc-407-sour-sealed-pup/</loc>
+    <loc>https://jwhiteford.github.io/iii/new-and-used-equipment/tc-407-sour-sealed-pup/</loc>
   </url>
   
   <url>
-    <loc>http://examplesite.org/new-and-used-equipment/stainless-steel-chemical/</loc>
+    <loc>https://jwhiteford.github.io/iii/new-and-used-equipment/stainless-steel-chemical/</loc>
   </url>
   
   <url>
-    <loc>http://examplesite.org/new-and-used-equipment/tc-407-sour-truckmount/</loc>
+    <loc>https://jwhiteford.github.io/iii/new-and-used-equipment/tc-407-sour-truckmount/</loc>
   </url>
   
   <url>
-    <loc>http://examplesite.org/available-products/tremcar-triaxle-trailer/</loc>
+    <loc>https://jwhiteford.github.io/iii/available-products/tremcar-triaxle-trailer/</loc>
   </url>
   
 </urlset>
